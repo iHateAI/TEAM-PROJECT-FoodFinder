@@ -367,4 +367,5 @@
 
 ## 🔧 DB TABLE 구조
 
-![ERD](/uploads/3e3c64354cefeb06fb5caf3533a236fc/hppDGAB8d5BjJN6Gr.png)
+![hppDGAB8d5BjJN6Gr](https://user-images.githubusercontent.com/81323697/209177662-ecf863b8-2f1b-4b91-aea9-f79c995366df.png)
+
