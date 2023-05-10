@@ -1,4 +1,6 @@
-# 🍔 원하는 음식 정보를 찾고 레시피를 공유해요!
+# Food-Finder
+![as3faw3fwf2](https://github.com/iHateAI/TEAM-PROJECT-FoodFinder/assets/81323697/9136f99f-e74a-4b4b-8ce4-a2780b863c68)
+
 
 <br />
 
