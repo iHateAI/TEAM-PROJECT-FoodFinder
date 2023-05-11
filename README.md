@@ -12,6 +12,7 @@
 - 목표 : 음식 레시피, 맛집 정보 제공
 - api 문서 : [바로 가기](https://documenter.getpostman.com/view/22452329/2s8YzQXjQP#f27f89f7-d29f-400c-9790-bf33693f7df0)
 - 테스트 페이지 : [바로 가기](http://kdt-ai5-team03.elicecoding.com/)
+- 시연 영상 : [바로 가기](https://www.youtube.com/watch?v=hrlsD56R6SQ)
 
 <br />
 
