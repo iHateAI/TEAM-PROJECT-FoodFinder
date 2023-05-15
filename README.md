@@ -11,7 +11,7 @@
 - 주제 : 레시피 공유 및 인공지능을 활용한 레시피, 맛집 검색 서비스
 - 목표 : 음식 레시피, 맛집 정보 제공
 - api 문서 : [바로 가기](https://documenter.getpostman.com/view/22452329/2s8YzQXjQP#f27f89f7-d29f-400c-9790-bf33693f7df0)
-- 테스트 페이지 : [바로 가기](http://kdt-ai5-team03.elicecoding.com/)
+- 테스트 페이지 : 서버 종료
 - 시연 영상 : [바로 가기](https://www.youtube.com/watch?v=hrlsD56R6SQ)
 - 프로젝트 회고: [바로 가기](https://velog.io/@hhs7425/%EC%97%98%EB%A6%AC%EC%8A%A4-3%EC%B0%A8-%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9A%8C%EA%B3%A0)
 
